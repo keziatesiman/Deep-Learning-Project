@@ -35,7 +35,7 @@ The characteristics of our model are as follows:
 * Evaluation Metrics: AUC, F1 score, Precision/Recall scores
 
 
-![alt text](./Figures/Diagram.jpg "Figure 1: Example of Graph Neural Network")
+![alt text](./Figures/diagram.jpg "Figure 1: Example of Graph Neural Network")
 
 
 
